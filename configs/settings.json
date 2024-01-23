@@ -1,0 +1,58 @@
+{
+  "apc.activityBar": {},
+  "terminal.integrated.defaultProfile.windows": "kali-linux (WSL)",
+  "workbench.activityBar.location": "hidden",
+  "window.commandCenter": false,
+  "apc.electron": {
+    "titleBarStyle": "hidden",
+    "frame": false,
+  },
+  "breadcrumbs.enabled": false,
+  "apc.font.family": "'Monaspace Neon', monospace",
+  "apc.monospace.font.family": "'Monaspace Neon', monospace",
+  "workbench.layoutControl.enabled": false,
+  "workbench.statusBar.visible": true,
+  "workbench.editor.showTabs": "none",
+  "editor.minimap.enabled": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.colorCustomizations": {
+    "[Default Dark Modern]": {
+      "editor.background": "#121212",
+      "titleBar.activeForeground": "#f2f2f2",
+      "titleBar.activeBackground": "#121212",
+      "sideBar.background": "#121212",
+      "tab.activeBackground": "#181818",
+      "tab.inactiveBackground": "#121212"
+    },
+    "statusBar.background": "#00a32f",
+    "statusBar.noFolderBackground": "#00a32f",
+    "statusBar.debuggingBackground": "#00a32f",
+    "statusBar.foreground": "#f2f2f2",
+    "statusBar.debuggingForeground": "#f2f2f2"
+  },
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "extensions.experimental.affinity": {
+    "vscodevim.vim": 1
+  },
+  "vim.enableNeovim": true,
+  "vim.neovimPath": "",
+  "vim.statusBarColorControl": true,
+  "vim.statusBarColors.normal": [
+    "#121212",
+    "#f2f2f2"
+  ],
+  "vim.statusBarColors.insert": "#026ec1",
+  "vim.statusBarColors.visual": "#00a32f",
+  "vim.statusBarColors.visualline": "#BB48EAD",
+  "vim.statusBarColors.visualblock": "#48EAD",
+  "vim.statusBarColors.replace": "#D08770",
+  "vim.statusBarColors.commandlineinprogress": "#007ACC",
+  "vim.statusBarColors.searchinprogressmode": "#007ACC",
+  "vim.statusBarColors.easymotionmode": "#007ACC",
+  "vim.statusBarColors.easymotioninputmode": "#007ACC",
+  "vim.statusBarColors.surroundinputmode": "#007ACC",
+}
