@@ -155,12 +155,7 @@
     "key": "ctrl+j",
     "command": "-workbench.action.togglePanel"
   },
-  {
-    "key": "shift+k",
-    "command": "editor.action.showHover",
-    "when": "editorTextFocus && neovim.mode != 'insert'"
-  },
-  {
+ {
     "key": "ctrl+k ctrl+i",
     "command": "-editor.action.showHover",
     "when": "editorTextFocus"
